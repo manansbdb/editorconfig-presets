@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/manansbdb/editorconfig-presets/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge" alt="MIT" /></a>
-  <img src="https://img.shields.io/badge/lang-EN%20%7C%20PT-3b82f6?style=for-the-badge" alt="EN PT" /></a>
+  <img src="https://img.shields.io/badge/lang-EN%20%7C%20PT-3b82f6?style=for-the-badge" alt="EN PT" />
   <img src="https://img.shields.io/badge/EditorConfig-FEFEFE?style=for-the-badge" alt="EditorConfig" />
   <a href="#support--apoio"><img src="https://img.shields.io/badge/donate-BTC-f59e0b?style=for-the-badge" alt="Donate BTC" /></a>
 </p>
